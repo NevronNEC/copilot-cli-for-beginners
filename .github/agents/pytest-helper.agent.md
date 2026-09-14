@@ -1,7 +1,7 @@
 ---
 name: pytest-helper
 description: Testing specialist for Python projects using pytest
-tools: ["read", "edit", "search", "execute"]
+tools: [vscode/extensions, vscode/installExtension, vscode/memory, vscode/newWorkspace, vscode/runCommand, execute, read, vscodeGeneral/rename, vscodeGeneral/usages, vscodeNotebooks/createJupyterNotebook, vscodeNotebooks/editNotebook, edit, search]
 ---
 
 # Pytest Testing Specialist
