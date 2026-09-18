@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "generate:vhs",
+			"problemMatcher": [],
+			"label": "npm: generate:vhs",
+			"detail": "node .github/scripts/generate-demos.js"
+		}
+	]
+}
